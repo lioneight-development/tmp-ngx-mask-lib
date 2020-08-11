@@ -32,12 +32,12 @@
   "es2015": "fesm2015/ngx-mask.js",
   "typings": "ngx-mask.d.ts",
   "peerDependencies": {
-    "@angular/common": "^6.0.0 || ^7.0.0 || ^8.0.0",
-    "@angular/core": "^6.0.0 || ^7.0.0 || ^8.0.0",
-    "@angular/forms": "^6.0.0 || ^7.0.0 || ^8.0.0"
+    "@angular/common": "10.0.8",
+    "@angular/core": "10.0.8",
+    "@angular/forms": "10.0.8"
   },
   "dependencies": {
-    "tslib": "^1.9.0"
+    "tslib": "2.0.0"
   },
   "esm5": "esm5/ngx-mask.js",
   "esm2015": "esm2015/ngx-mask.js",
